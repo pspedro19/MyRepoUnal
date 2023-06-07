@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Data Science Project Template
 
 Esta plantilla es una implementación de la plantilla de proyecto de Team Data Science Process que actualmente se utiliza en el "Programa de Formación en Machine Learning y Data Science" en la Universidad Nacional de Colombia.
@@ -8,3 +9,7 @@ Esta plantilla proporciona las siguientes carpetas y archivos:
 * `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
 * `scripts`: esta carpeta debe contener los scripts/notebooks que se ejecutarán.
 * `pyproject.toml`: archivo de definición del proyecto en Python.
+=======
+# MyRepoUnal
+Modelo Proyecto
+>>>>>>> c80745c2280e7eab0866b3d2ea86cf606915f3ef

@@ -1,15 +1,17 @@
-<<<<<<< HEAD
-# Team Data Science Project Template
+# Machine Learning for Predictive Maintenance of H501 Refinery Furnace
 
-Esta plantilla es una implementación de la plantilla de proyecto de Team Data Science Process que actualmente se utiliza en el "Programa de Formación en Machine Learning y Data Science" en la Universidad Nacional de Colombia.
+## Objective
+The primary goal of this project is to use machine learning tools to predict unplanned shutdowns of the H501 unit in the Apiay refinery. By implementing predictive analytics and principal component analysis, we aim to prevent unplanned plant downtimes, ensure service continuity, and maintain product quality to meet specifications.
 
-Esta plantilla proporciona las siguientes carpetas y archivos:
+## Project Overview
+This project involves creating a machine learning model to predict unplanned furnace shutdowns. We will integrate data from the H501 unit with SIS data to correlate with the target variable (furnace shutdown), perform data cleaning, exploratory and statistical analysis, and data imputation as necessary.
 
-* `src`: acá debe ir el código o implementación del proyecto en Python.
-* `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
-* `scripts`: esta carpeta debe contener los scripts/notebooks que se ejecutarán.
-* `pyproject.toml`: archivo de definición del proyecto en Python.
-=======
-# MyRepoUnal
-Modelo Proyecto
->>>>>>> c80745c2280e7eab0866b3d2ea86cf606915f3ef
+![Project Overview Image](path/to/image.png)  <!-- Replace 'path/to/image.png' with the actual path to your image file -->
+
+## Installation
+To run this project, you will need Python along with several libraries for data manipulation and visualization. Clone this repository and install the required libraries:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
